@@ -5,5 +5,4 @@ geckodriver.log
 __pycache__
 *.pyc
 .vscode
-static
 lists/migrations
